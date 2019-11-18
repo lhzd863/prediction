@@ -2,3 +2,5 @@ https://blog.csdn.net/h13001295342jl/article/details/86526559
 #北航学报
 https://bhxb.buaa.edu.cn/
 https://bhxb.buaa.edu.cn/CN/article/searchArticle.do
+#中科院学报
+http://journal.ucas.ac.cn/CN/article/searchArticle.do

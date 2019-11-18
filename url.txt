@@ -10,3 +10,5 @@ http://www.jsjkx.com/CN/1002-137X/home.shtml
 http://www.zjujournals.com/sci/CN/volumn/home.shtml
 #计算机科学
 http://www.jsjkx.com/CN/1002-137X/home.shtml
+#
+http://www.ceaj.org/CN/volumn/home.shtml
